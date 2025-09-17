@@ -1,2 +1,2 @@
-nose
-mock
+pytest>=7.0,<8.0
+pytest-cov>=4.0,<5.0
